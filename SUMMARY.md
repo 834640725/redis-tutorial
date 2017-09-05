@@ -14,5 +14,5 @@
 ### 其他
 
 * [redis 的客户端 medis](chapters/medis.md)
-* [redis 的复制与 nginx 的 tcp 负载均衡的结合](chapters/redis-de-fu-zhi-yu-nginx-de-tcp-fu-zai-jun-heng-de-jie-he.md)
-* [redis 持久化文章和资源分享](chapters/redis-de-fu-zhi-yu-nginx-de-tcp-fu-zai-jun-heng-de-jie-he.md)
+* [redis 的复制与 nginx 的 tcp 负载均衡的结合](chapters/replication_load_balance.md)
+* [redis 持久化文章和资源分享](chapters/replication_share.md)

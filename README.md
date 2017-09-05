@@ -1,5 +1,9 @@
 # redis入门与应用教程
 
+redis从入门开始讲起，通过应用来深入理解redis。
+
+文中有很多实例是用ruby语言来写。
+
 原文发布于我的个人博客：https://www.rails365.net
 
 源码位于：https://github.com/yinsigan/redis-tutorial
