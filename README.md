@@ -14,4 +14,4 @@ redis从入门开始讲起，通过应用来深入理解redis。
 
 email: hfpp2012@gmail.com
 
-qq: 903279182
+qq群: 697272886
